@@ -1,5 +1,7 @@
 ---
-layout: post
+layout: "post"
+title: "My First Blog Post"
+date: 2020-05-15 
 ---
 
 some draft content
